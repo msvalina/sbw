@@ -1,0 +1,16 @@
+{
+  "name": "sbw",
+  "description": "Start Bodyweight routine application",
+  "repository": "https://github.com/msvalina/sbw",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "react",
+    "redux",
+    "universal",
+    "webpack",
+    "express",
+    "hot reloading",
+    "react-hot-reloader",
+    "babel"
+  ]
+}
