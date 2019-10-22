@@ -1,0 +1,592 @@
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Assisted Squats",
+  "position": 100,
+  "description": "Rest your hands on the back of a chair in front you. Lower yourself till your thighs are parallel with the floor, and come back up, using the chair as a support.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-100-assisted-squats.JPG" },
+    { "urlSmall": "./images/01-squats-100-assisted-squats-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Deep assisted squats",
+  "position": 105,
+  "description": "Rest your hands on the back of a chair in front you. Squat through the full range of motion, and come back up, using the chair as a support.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-105-deep-assisted-squats.JPG" },
+    { "urlSmall": "./images/01-squats-105-deep-assisted-squats-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Squats",
+  "position": 110,
+  "description": "Without any help, squat through the full range of motion, and come back up.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-110-squats.JPG" },
+    { "urlSmall": "./images/01-squats-110-squats-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Deep squats",
+  "position": 115,
+  "description": "Without any help, lower yourself till your thighs are parallel with the floor, and come back up.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-115-deep-squats.JPG" },
+    { "urlSmall": "./images/01-squats-115-deep-squats-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Bulgarian split squats",
+  "position": 120,
+  "description": "Rest your back foot on an elevated platform, with the sole pointing up. Keep your weight over your front leg as you lower yourself.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-120-bulgarian-split-squats.JPG" },
+    { "urlSmall": "./images/01-squats-120-bulgarian-split-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Begginer shrimps squats",
+  "position": 125,
+  "description": "Lower yourself on one leg until the knee and toes of the leg that was bent under you touch the floor at the same time. This must be a slow controlled movement. Then come back up, trying to lift your knee and toes at the same time.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-125-beginner-shrimps-squats.JPG" },
+    { "urlSmall": "./images/01-squats-125-beginner-shrimps-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Assisted one legged squats",
+  "position": 130,
+  "description": "Performed with a bench or a chair next to you, extend one leg straight in front of you, and lower yourself all the way down, till your butt touches your heel. The heel must remain on the floor however. Help yourself back up by pushing on the chair.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-130-assisted-one-legged-squats.JPG" },
+    { "urlSmall": "./images/01-squats-130-assisted-one-legged-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Balance assisted one legged squats",
+  "position": 135,
+  "description": "Performed with a door frame or any vertical structure mainly for support and balance. Extend one leg straight in front of you, and lower yourself all the way down, till your butt touches your heel. The heel must remain on the floor however.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-135-balance-assisted-one-legged-squats.JPG" },
+    { "urlSmall": "./images/01-squats-135-balance-assisted-one-legged-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Weighted one legged squats",
+  "position": 140,
+  "description": "This is somewhat counter-intuitive, but weighted one legged squats are actually easier than standard ones, as the object you hold in front of you acts as a counter-weight. You can use dumbbells if you have some, but any heavy object such as a dictionary will do. Start with a 5kg weight and move down in weight progressively in 1 kg increments until you can do unassisted pistols.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-140-weighted-one-legged-squats.JPG" },
+    { "urlSmall": "./images/01-squats-140-weighted-one-legged-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "One-legged squats",
+  "position": 145,
+  "description": "Extend one leg straight in front of you, and lower yourself all the way down, till your butt touches your heel. The heel must remain on the floor however.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-145-one-legged-squats.JPG" },
+    { "urlSmall": "./images/01-squats-145-one-legged-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Renegade pistols",
+  "position": 150,
+  "description": "Lower yourself on one leg; then switch legs at the bottom (bring the extended leg back next to the other one,into a full squat position), before coming back up.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-150-renegade-pistols-squats.JPG" },
+    { "urlSmall": "./images/01-squats-150-renegade-pistols-small.png"}
+  ],
+  "video": [{ "url": "http://www.youtube.com/watch?v=Yx7-ywBEIQM"}],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Intermediate shripms",
+  "position": 155,
+  "description": "Lower yourself on one leg until the knee and toes of the leg that was bent under you touch the floor at the same time. This must be a slow controlled movement. Then come back up but your back foot must come off the floor before you come back up. This variation shifts the emphasis of the exercise to your quadriceps.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-155-intermediate-shripms-squats.JPG" },
+    { "urlSmall": "./images/01-squats-155-intermediate-shripms-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "squats",
+  "name": "Advanced shripms",
+  "position": 160,
+  "description": "Hold your back foot in your hand throughout the exercise. Your knee must touch the floor in a controlled manner.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/01-squats-160-advance-shripms-squats.JPG" },
+    { "urlSmall": "./images/01-squats-160-advance-shripms-squats-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Leg assisted pull ups",
+  "position": 100,
+  "description": "Place a chair under your pull up bar, and assist yourself with one leg as you pull your body up. The key here is that you control how much help you get from your assisting leg. Try to reduce this assistance over time. This can be done by placing just the tip of your toes on the chair under you.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-100-leg-assisted-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-100-leg-assisted-pull-ups-small.png" }
+  ],
+  "video": [{ "url": "http://www.youtube.com/watch?v=_M8NHO7tb1I" }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Jackknife pull ups",
+  "position": 105,
+  "description": "Place a high object under and in front of your pull up bar (a sturdy chair or -even better- a table). Placement is key for jackknife pull ups to be effective: ideally, the table or chair should be high enough for your legs to rest on it at 90 degrees or less to your torso, with your waist bent. Push with your heels into the chair or table and straighten your waist whilst bringing your chin to the bar.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-105-jackknife-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-105-jackknife-pull-ups-small.png" }
+  ],
+  "video": [{ "url": "http://www.youtube.com/watch?v=0AGflL3itws" }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Eccentric pull ups",
+  "position": 110,
+  "description": "Jump up in the pull up position with your chin above the bar, then slowly lower yourself down to the count of 5 seconds.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-110-eccentric-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-110-eccentric-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Half pull ups (top half)",
+  "position": 115,
+  "description": "Start in mid range, and pull yourself up through half the range of motion, until your chin clears the bar. Then lower yourself back to mid range (elbows bent at 90 degrees).",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-115-half-pull-ups-top-half.JPG" },
+    { "urlSmall": "./images/02-pull-ups-115-half-pull-ups-top-half-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Pull Ups",
+  "position": 120,
+  "description": "From a dead hang, pull yourself up till your chin clears the bar.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-100-leg-assisted-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-100-leg-assisted-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Close grip pull ups",
+  "position": 125,
+  "description": "With your hands close together, from a dead hang, pull yourself up till your chin clears the bar. This variation places added emphasis on your biceps.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-125-close-grip-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-125-close-grip-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Wide grip pull ups",
+  "position": 130,
+  "description": "With your hands further than shoulder width apart, from dead hang, pull yourself up till your ching clears the bar. This variation places added emphasis on your latissimus dorsi.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-130-wide-grip-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-130-wide-grip-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Archer pull ups",
+  "position": 135,
+  "description": "Focus on pulling with one arm, with minimal assistance from the other. The other arm should gradually straighten over the bar during the pulling motion. Only go up to 6 on each arm, alternating each arm, rather than the 8 reps the basic routine calls for. This variation of pull ups is key to working your way to a muscle up. If 4 archer pull ups are too much to begin with, start with 3 on each arm.",
+  "startLevel": 333,
+  "goal": 666,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-135-archer-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-135-archer-pull-ups-small.png" }
+  ],
+  "video": [{ "url": "https://www.youtube.com/watch?v=ikKG260TMwU" }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "",
+  "position": 140,
+  "description": "This move shifts the emphasis away from the latissimus dorsi, but it is another key step in the progression towards a muscle up. Perform a pull up until the bar is at chest level. Make sure your elbows remain close to your body throughout the later part of the move, and that they drive back past your shoulders. This move is not to be confused with the 'gironda sternum pull up', through which your back is arched.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-140-sternum-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-140-sternum-pull-ups-small.png" }
+  ],
+  "video": [{ "url": "https://www.youtube.com/watch?v=-XXuIwW56Zw" }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Belly button pull ups",
+  "position": 145,
+  "description": "Pull explosively until your belly button is leveled with the bar. Again, your elbows should brush past your sides, and drive back past your shoulders.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-145-belly-button-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-145-belly-button-pull-ups-small.png" }
+  ],
+  "video": [{ "url": "https://www.youtube.com/watch?v=-XXuIwW56Zw" }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "One arm towel assisted pull ups",
+  "position": 150,
+  "description": "The lower your grip is on the towel, the less assistance your other arm will actually provide. Also try to modify your grip on the towel to reduce the assitance (hold with only 2 fingers for instance). Only go up to 6 reps on each arm, alternating each arm, rather than the 8 reps the basic routine calls for.",
+  "startLevel": 444,
+  "goal": 666,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-150-one-arm-towel-assisted-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-150-one-arm-towel-assisted-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "One arm towel assisted pull ups and eccentrics",
+  "position": 155,
+  "description": "Let go of the towel once your chin clears the bar, and lower yourself over a count of 5 seconds. Only go up to 6 reps on each arm, alternating each arm, rather than the 8 reps the basic routine calls for.",
+  "startLevel": 444,
+  "goal": 666,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-155-one-arm-towel-assisted-pull-ups-eccentircs.JPG" },
+    { "urlSmall": "./images/02-pull-ups-155-one-arm-towel-assisted-pull-ups-eccentircs-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": ""
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "Half one arm pull ups (top half)",
+  "position": 160,
+  "description": "Start in mid range, and pull yourself up through half the range of motion, until your chin clears the bar. Then lower yourself back to mid range (elbows bent at 90 degrees).",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-160-half-one-arm-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-160-half-one-arm-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Pull Ups",
+  "name": "One arm pull ups",
+  "position": 165,
+  "description": "From a dead hang, pull yourself up through the whole range of motion.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/02-pull-ups-165-one-arm-pull-ups.JPG" },
+    { "urlSmall": "./images/02-pull-ups-165-one-arm-pull-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Incline pike push ups",
+  "position": 100,
+  "description": "Also called incline military press push ups. Place your hands shoulder-width apart on a raised platform. Bend at the waist keeping a straight back. Your outstretched arms and torso should form a straight line. Bring your head to your hands.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-100-incline-pike-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-100-incline-pike-push-ups-small.png" }
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Incline pike diamond push ups",
+  "position": 105,
+  "description": "Also called incline Chinese push ups. Place your hands with thumbs and index fingers touching each other, on a raised platform. Bend at the waist keeping a straight back, and bring your head to your hands.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-105-incline-pike-diamond-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-105-incline-pike-diamond-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Pike push ups",
+  "position": 110,
+  "description": "Also called military press push ups. Same as pike push ups, without the platform. Make sure that your head travels directly between your arms. Try to keep your head, arms and torso all in the same straight line.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-110-pike-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-110-pike-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Pike diamond push ups",
+  "position": 115,
+  "description": "Also called Chinese push ups. Place your hands with thumbs and index fingers touching each other. Bend at the waist keeping a straight back, and bring your head to your hands.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-115-pike-diamond-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-115-pike-diamond-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Decline pike push ups",
+  "position": 120,
+  "description": "Also called decline military press push ups. With feet on a raised platform, and hands on the floor. Bend at the waist keeping a straight back. Your outstretched arms and torso should form a straight line. Bring your head to your hands.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-120-decline-pike-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-120-decline-pike-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Decline pike diamond push ups",
+  "position": 125,
+  "description": "Also called decline Chinese push ups. With feet on a raised platform, and hands on the floor forming diamond. Bend at the waist keeping a straight back, and bring your head to your hands.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-125-decline-pike-diamond-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-125-decline-pike-diamond-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Wall bent waist handstand push ups",
+  "position": 130,
+  "description": "Walk your feet up the wall, keep a bent waist (you will need to remain some distance from the wall), then perform a push up. Make sure your head and torso remain in line with your arms.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-130-wall-bent-waist-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-130-wall-bent-waist-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Wall bent waist handstand diamond push ups",
+  "position": 135,
+  "description": "Walk your feet up the wall, keep a bent waist (you will need to remain some distance from the wall), then perform a push up with hands in diamond position. Make sure your head and torso remain in line with your arms.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/03-handstand-push-ups-135-wall-bent-waist-diamond-push-ups.JPG" },
+    { "urlSmall": "./images/03-handstand-push-ups-135-wall-bent-waist-diamond-push-ups-small.png"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "Wall half handstand push ups",
+  "position": 140,
+  "description": "Facing the wall in a handstand position, lower yourself till your arms are half bent, then come up.",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/" },
+    { "urlSmall": "./images/"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},
+{
+  "routine": "StartBodyweight basic routine",
+  "category": "Hand stand push ups",
+  "name": "",
+  "position": 1,
+  "description": "",
+  "startLevel": 444,
+  "goal": 888,
+  "restTime": 90,
+  "image": [
+    { "urlBig": "./images/" },
+    { "urlSmall": "./images/"}
+  ],
+  "video": [{ "url": null }],
+  "createdBy": "E1Diabl0"
+},

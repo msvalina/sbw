@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p 
+   | You can get jwt on
+   a(href='/authenticate') /authenticate
+   |  by sending username and password in POST request
+  p
+   | You can view raw json of default exercise progressions on 
+   a(href='/api/progressions/') /api/progressions
