@@ -18,7 +18,7 @@
     "immutable": "^3.7.5",
     "jade": "~1.11.0",
     "jsonwebtoken": "^5.4.1",
-    "mongoose": "~4.1.11",
+    "mongoose": "~5.10.2",
     "morgan": "~1.6.1",
     "nodemon": "^1.19.4",
     "serve-favicon": "~2.3.0"
